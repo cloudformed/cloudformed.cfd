@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CloudFormed
 
 You can use the [editor on GitHub](https://github.com/cloudformed/cloudformed.cfd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
